@@ -1,0 +1,48 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Bin/
+UnityGenerated/
+Library/
+Packages/
+Assets/AssetStoreTools*
+project.json
+project.lock.json
+UnityPackageManager/
+App[0-9]/
+App/
+Assets/HoloToolkit/
+Assets/HoloToolkit-Examples/
+Assets/MeshBaker/
+Assets/PowerUI/
+Assets/FbxExporters/
+Assets/PowerUI/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+.vs/
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.csproj
+*.pidb
+*.suo
+/*.sln
+*.sln
+*.user
+*.unityproj
+*.ipch
+*.opensdf
+*.sdf
+*.obj
+*.tlog
+*.log
+*.idb
+*.opendb
+WSATestCertificate.pfx
+WSATestCertificate.pfx.meta
